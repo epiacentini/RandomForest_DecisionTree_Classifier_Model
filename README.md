@@ -6,4 +6,4 @@ I initially constructed the Decision Tree Classifier to see how it would perform
 
 Programming Languages: Python
 
-Tools/Libraries: Pandas, NumPy, SciKit-Learn(SKLearn), Matplotlib, Seaborn, Jupyter Notebook,
+Tools/Libraries: Pandas, NumPy, SciKit-Learn(SKLearn), Matplotlib, Seaborn, Jupyter Notebook
